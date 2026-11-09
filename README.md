@@ -1,4 +1,4 @@
-[Aether Quest Cover](cover/images.jpg)
+<img src="cover/images.jpg" alt="Aether Quest Cover" width="300">
 # -Vivify-Jaron 743-Aether Quest-port 
 this is still in testing so it might be buggy
 
