@@ -1,3 +1,4 @@
+![Aether Quest Cover](cover/images.jpg)
 # -Vivify-Jaron 743-Aether Quest-port 
 this is still in testing so it might be buggy
 
