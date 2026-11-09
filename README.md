@@ -11,3 +11,5 @@ RECOMMEND [Vivify](https://github.com/trail-b1az3r/vivify-quest)
 - 🔴 NOT WORKING 
 - ⚫️ CANCELED 
 - 🟠 Current STATUS
+
+credits to swifter for the original map https://github.com/Swifter1243/aether_map
