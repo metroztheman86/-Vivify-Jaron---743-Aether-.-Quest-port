@@ -4,11 +4,11 @@ this is still in testing so it might be buggy
 RECOMMEND VIVIFY https://github.com/trail-b1az3r/vivify-quest
 
 STATUS 
-🟢 UP AND READY
-🟠 IN TESTING
-🔴NOT WORKING 
-⚫️CANCELED 
-Current STATUS 🟠
+- 🟢 UP AND READY
+- 🟠 IN TESTING
+- 🔴NOT WORKING 
+- ⚫️CANCELED 
+- Current STATUS 🟠
 
 
 
