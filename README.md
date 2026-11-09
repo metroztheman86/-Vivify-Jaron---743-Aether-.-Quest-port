@@ -8,7 +8,7 @@ STATUS
 - 🟠 IN TESTING
 - 🔴NOT WORKING 
 - ⚫️CANCELED 
-- Current STATUS 🟠
+- 🟠Current STATUS 
 
 
 
