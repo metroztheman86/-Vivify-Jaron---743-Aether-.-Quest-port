@@ -1,0 +1,159 @@
+{
+  "_version": "2.1.0",
+  "_songName": "743+Aether*✧ . * 111} + , .",
+  "_songSubName": "",
+  "_songAuthorName": "Jaron",
+  "_levelAuthorName": "Swifter",
+  "_beatsPerMinute": 145.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 28.5,
+  "_previewDuration": 10.0,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BillieEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [
+    "BillieEnvironment"
+  ],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ReMapper",
+      "ChroMapper": {
+        "version": "0.12.874"
+      },
+      "ReMapper": {
+        "version": "4.1.0"
+      }
+    },
+    "_assetBundle": {
+      "_android2021": 4214519189,
+      "_windows2021": 2313223434,
+      "_android2021": 1399966418
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_requirements": [
+              "Vivify",
+              "Noodle Extensions",
+              "Chroma"
+            ],
+            "_difficultyLabel": "✧",
+            "_settings": {
+              "_chroma": {
+                "_disableEnvironmentEnhancements": false
+              },
+              "_graphics": {
+                "_mainEffectGraphicsSettings": 1,
+                "_maxShockwaveParticles": 0,
+                "_screenDisplacementEffectsEnabled": true
+              },
+              "_modifiers": {
+                "_noFailOn0Energy": true
+              },
+              "_playerOptions": {
+                "_leftHanded": false,
+                "_reduceDebris": false,
+                "_noteJumpDurationTypeSettings": "Dynamic"
+              }
+            },
+            "_colorLeft": {
+              "r": 0.936,
+              "g": 0.614,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.803,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0,
+              "b": 1
+            },
+            "_envColorRight": {
+              "r": 0.515,
+              "g": 0,
+              "b": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lawless",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusLawless.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_requirements": [
+              "Vivify",
+              "Noodle Extensions",
+              "Chroma"
+            ],
+            "_difficultyLabel": "\\___*",
+            "_settings": {
+              "_chroma": {
+                "_disableEnvironmentEnhancements": false
+              },
+              "_graphics": {
+                "_mainEffectGraphicsSettings": 1,
+                "_maxShockwaveParticles": 0,
+                "_screenDisplacementEffectsEnabled": true
+              },
+              "_modifiers": {
+                "_noFailOn0Energy": true
+              },
+              "_playerOptions": {
+                "_leftHanded": false,
+                "_reduceDebris": false,
+                "_noteJumpDurationTypeSettings": "Dynamic"
+              }
+            },
+            "_colorLeft": {
+              "r": 0.936,
+              "g": 0.614,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.803,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0,
+              "g": 0,
+              "b": 1
+            },
+            "_envColorRight": {
+              "r": 0.515,
+              "g": 0,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
